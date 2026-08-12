@@ -34,7 +34,7 @@ and building thoughtful products that genuinely help people.
 
 ---
 
-![](./profile-3d-contrib/profile-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <br>
 
