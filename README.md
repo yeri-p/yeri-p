@@ -10,22 +10,37 @@ and building thoughtful products that genuinely help people.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,unity" />
 
-**Tools**
+<details>
+<summary><b>More</b></summary>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" />
+<br>
 
-**Also Experienced With**
+<strong>Tools</strong>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,cs,python,mysql,nginx,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" />
+</p>
+
+<strong>Also Experienced With</strong>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,cs,python,mysql,nginx,linux" />
+</p>
+
+</details>
+
+
 
 <br/>
 
 ## 🌱 Contributions
 ![](./profile-3d-contrib/profile-green.svg)
 
+<br/>
+
 ---
-### Get in Touch
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:yeripark789@gmail.com)
+### 📬 Get in Touch
+[![Email](https://img.shields.io/badge/yeripark789@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yeripark789@gmail.com)
 
 
 <!--
