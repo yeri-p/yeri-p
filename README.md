@@ -1,29 +1,31 @@
-### Profile
-![](https://img.shields.io/badge/yeripark789@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+# Hi, I'm Yeri 👋
 
-안녕하세요 사용자에게 나은 서비스를 제공하기 위해 노력하는 개발자 입니다.
+I'm a developer who enjoys taking on new challenges
+and building thoughtful products that genuinely help people.
 
-<br/>
+![Yeri's GitHub stats](https://github-stats-extended.vercel.app/api?username=yeri-p&show_icons=true&theme=vue&hide_border=true&hide_rank=true)
 
-## ✨ Skills
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Skills
+**Currently Working With**
 
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,unity" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" />
+
+**Also Experienced With**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,cs,python,mysql,nginx,linux" />
 
 <br/>
 
 ## 🌱 Contributions
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green.svg)
+
+---
+### Get in Touch
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:yeripark789@gmail.com)
 
 
 <!--
