@@ -1,14 +1,15 @@
-# Hi, I'm Yeri 👋
+### Hi, I'm Yeri 👋
 
 I'm a developer who enjoys taking on new challenges
 and building thoughtful products that genuinely help people.
 
-![Yeri's GitHub stats](https://github-stats-extended.vercel.app/api?username=yeri-p&show_icons=true&theme=vue&hide_border=true&hide_rank=true)
+<!-- ![Yeri's GitHub stats](https://github-stats-extended.vercel.app/api?username=yeri-p&show_icons=true&theme=vue&hide_border=true&hide_rank=true) -->
+---
 
-## Skills
+### 🌱 Skills
 **Currently Working With**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,unity" />
+<img width="200" src="https://skillicons.dev/icons?i=flutter,dart,firebase,unity" />
 
 <details>
 <summary><b>More</b></summary>
@@ -18,25 +19,24 @@ and building thoughtful products that genuinely help people.
 <strong>Tools</strong>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" />
+  <img width="200" src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,github" />
 </p>
 
 <strong>Also Experienced With</strong>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,cs,python,mysql,nginx,linux" />
+  <img width="570" src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,nginx,python,java,mysql,linux" />
 </p>
+
+<br>
 
 </details>
 
+---
 
-
-<br/>
-
-## 🌱 Contributions
 ![](./profile-3d-contrib/profile-green.svg)
 
-<br/>
+<br>
 
 ---
 ### 📬 Get in Touch
