@@ -23,6 +23,6 @@ jobs:
           git config user.name yeri-p
           git config user.email yeri-p@github.com
           git add -A .
-          git commit -m "generated"; then
+          if git commit -m "generated"; then
             git push
           fi
