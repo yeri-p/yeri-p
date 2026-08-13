@@ -4,9 +4,9 @@ I'm a developer who enjoys taking on new challenges
 and building thoughtful products that genuinely help people.
 
 <!-- ![Yeri's GitHub stats](https://github-stats-extended.vercel.app/api?username=yeri-p&show_icons=true&theme=vue&hide_border=true&hide_rank=true) -->
----
 
-### 🌱 Skills
+
+### Skills
 **Currently Working With**
 
 <img width="200" src="https://skillicons.dev/icons?i=flutter,dart,firebase,unity" />
@@ -32,7 +32,7 @@ and building thoughtful products that genuinely help people.
 
 </details>
 
----
+### 🌱 Contribution
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
